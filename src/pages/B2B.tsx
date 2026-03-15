@@ -351,7 +351,7 @@ export default function B2B() {
           </div>
         )}
 
-        {/* B2B Categories */}}
+        {/* B2B Categories */}
         <div className="bg-white rounded-xl p-5 shadow-sm">
           <div className="text-[15px] font-black mb-3">B2B Product Categories</div>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-2.5">
